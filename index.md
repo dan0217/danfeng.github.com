@@ -7,7 +7,7 @@
       <p><b>Email：danfeng0217@hotmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 1.png
+      <img src="/1.png" width="100%">      
     </td>
   </tr>
 </table>
