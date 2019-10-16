@@ -1,18 +1,26 @@
-## Welcome to GitHub Pages
+# FENG Dan    Ph.D
+#### Address: M2P2 Europôle de l’Arbois BP 80, 13545, Aix en Provence Cedex 4, France
+#### Telephone: +33 784179523
+#### Email: danfeng0217@hotmail.com
+## Education
+Ph.D.  2016-     Chemical Engineering Aix Marseille University, Ecole Centrale de Marseille
 
-You can use the [editor on GitHub](https://github.com/dan0217/danfeng.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thesis title: Treatment of complex effluents and emerging contaminants by a compact process coupling wet air oxidation with biological treatment 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Supervisors: Prof. Olivier BOUTIN and Prof. Audrey SORIC
 
-### Markdown
+M.A.  2013-2016   Ecology  Hainan University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thesis title: Impact of environmental behavior of norfloxacin by biochars prepared from cassava wastes in soils and numerical simulation
 
-```markdown
-Syntax highlighted code block
+Supervisor: Prof. GE Chengjun
 
-# Header 1
-## Header 2
+B.A.  2009-2013  Environmental Science  Hainan University
+## Areas of Interest
+Wastewater Treatment; Advanced oxidation process; Biological treatment; Microfluidic device
+## Scholarships and Awards
+
+
 ### Header 3
 
 - Bulleted
